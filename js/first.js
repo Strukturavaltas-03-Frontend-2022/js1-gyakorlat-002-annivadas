@@ -5,9 +5,7 @@
 __térjen vissza__ az elemek egész számra kerekített összegével!
 */
 const arr = [11, 22, 33, 44, 55];
-brutto = (arr) => {
-    return
-}
+
 
 brutto = (productPricesArray) =>
     Math.round(
